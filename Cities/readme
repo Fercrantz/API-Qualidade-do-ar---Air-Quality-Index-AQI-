@@ -1,1 +1,3 @@
-
+The API data is transmitted via the geographical location of the cities. 
+Therefore, we first need to list the cities we want and their geographical locations (latitude and longitude). 
+To achieve this, a file with this list has been created.
